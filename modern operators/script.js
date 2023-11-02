@@ -123,6 +123,4 @@ console.log(open, close);
 ]
 */
 
-//spread operators
-//anything written for github
-
+//spread operator
